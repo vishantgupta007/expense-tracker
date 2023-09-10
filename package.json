@@ -1,7 +1,7 @@
 {
 	"name": "expense-tracker",
 	"version": "0.1.0",
-  "homepage": "https://vishantgupta007/react_expense_tracker",
+  "homepage": "https://vishantgupta007.github.io/react_expense_tracker",
 	"private": true,
 	"dependencies": {
 		"react": "^18.2.0",
